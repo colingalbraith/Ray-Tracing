@@ -35,3 +35,6 @@ Resolution: 1920x1080 | Time taken: 3.35 seconds | 2,073,600 pixels | Ray Depth 
 ![raytracing_output](https://github.com/user-attachments/assets/9230d6ee-bc17-4da9-b9f2-87b0f97f53e4)
 
 
+Preview of V2 with Anti-Aliasing | 4k | 8,294,400 pixels |
+
+![raytracing_output3](https://github.com/user-attachments/assets/efe80799-d72b-4e8f-9f5c-99455eaa84df)
