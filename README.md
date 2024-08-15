@@ -27,14 +27,14 @@ Even though the upscaled image has over 2 million pixels, the optimized code ens
 
 
 Original |
-Resolution: 400x300 | Time taken: 4.98 seconds | 120,000 pixels |
+Resolution: 400x300 | Time taken: 4.98 seconds | 120,000 pixels | Ray Depth 5 |
 
 ![raytracing_output2](https://github.com/user-attachments/assets/f06e6e46-d0c4-485a-9024-3e53499f5a45)
 
 
 
 Optimized |
-Resolution: 1920x1080 | Time taken: 3.35 seconds | 2,073,600 pixels |
+Resolution: 1920x1080 | Time taken: 3.35 seconds | 2,073,600 pixels | Ray Depth 5 |
 
 ![raytracing_output](https://github.com/user-attachments/assets/9230d6ee-bc17-4da9-b9f2-87b0f97f53e4)
 
